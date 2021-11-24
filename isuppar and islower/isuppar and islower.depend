@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610957292 source:c:\users\aamir khan\onedrive\desktop\cpp\isuppar and islower\main.c
+	<stdio.h>
+	<ctype.h>
+

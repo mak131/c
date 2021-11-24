@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610724665 source:c:\users\aamir khan\onedrive\desktop\cpp\strcmpi\main.c
+	<stdio.h>
+	<string.h>
+
